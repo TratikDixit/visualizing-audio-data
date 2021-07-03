@@ -21,7 +21,7 @@ The program visualiser output:
      ```
 4. The images will be stored with the same name as the audio (in .png format) in the img folder.
 
-###Additionally
+### Additionally
 
 1. The Audio folder containers the pronounciation of the ten digits (1-10).
 
