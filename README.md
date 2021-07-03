@@ -5,7 +5,7 @@ This is a small python project that helps visualise the audio in (.wav) format a
 ## Audio Visualization
 
 The program visualiser output:
-![alt text](https://github.com/TratikDixit/visualizing-audio-data/blob/master/img/1.png?raw=true)
+ <img src="./img/1.png" width="350" title="hover text">
 1. The upper subplot is a visualization of the waveform of the audio
 2. The lower subplot is a spectograph of the diagram
 
