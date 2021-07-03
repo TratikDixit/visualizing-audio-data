@@ -1,6 +1,6 @@
 # visualizing-audio-data
 
-This is a small python project that helps visualise the audio in (.wav) format as a wavelength graph and a spectogram.
+This is a python project that helps visualise the audio in (.wav) format as a wavelength graph and a spectogram.
 
 ## Audio Visualization
 
